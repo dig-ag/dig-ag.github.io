@@ -1,5 +1,5 @@
 ---
-title: Meet The Instructors
+title: Home
 layout: home
 nav_order: 1
 ---

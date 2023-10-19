@@ -31,7 +31,6 @@ github_username:  dig-ag
 
 # Build settings
 theme: just-the-docs
-color_scheme: dark
 plugins:
   - jekyll-feed
 
