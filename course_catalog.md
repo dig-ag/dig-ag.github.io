@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course Catalog
-permalink: /catalog/
+# permalink: /catalog/
 has_children: true
 nav_order: 2
 ---
