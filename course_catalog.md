@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Course Catalog
 permalink: /about/
 nav_order: 2
 ---
