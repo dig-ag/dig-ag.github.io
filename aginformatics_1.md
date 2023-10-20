@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Module 1
-parent: Data Visualization
+parent: Introduction to Agricultural Informatics
 grand_parent: Course Catalog
 nav_order: 1
 ---

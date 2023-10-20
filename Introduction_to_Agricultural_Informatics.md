@@ -3,6 +3,7 @@ layout: page
 title: Introduction to Agricultural Informatics
 parent: Course Catalog
 nav_order: 4
+has_children: true
 ---
 
 # "Introduction to Agricultural Informatics Course" by Ankita Raturi, 
