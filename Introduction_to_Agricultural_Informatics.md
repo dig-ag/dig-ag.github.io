@@ -5,7 +5,8 @@ parent: Course Catalog
 nav_order: 4
 ---
 
-"Introduction to Agricultural Informatics Course" by Ankita Raturi, Purdue University is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+# "Introduction to Agricultural Informatics Course" by Ankita Raturi, 
+Purdue University is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 A Course in Progress: This course is currently being developed as it is offered for the second time. Relevant changes to this course will be posted to this Github repository. New materials will be shared here each week. Major updates will be announced in class and/or via email/Slack.
 

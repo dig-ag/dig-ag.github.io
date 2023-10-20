@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Module 2
-grand_parent: Course Catalog
 parent: Data Visualization
+grand_parent: Course Catalog
 nav_order: 2
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Introduction to GIS
 parent: Course Catalog
-nav_order: 4
+nav_order: 5
 ---
 
 "Introduction to GIS" by Dharmendra Saraswat
