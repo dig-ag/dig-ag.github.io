@@ -5,8 +5,8 @@ nav_order: 1
 ---
 
 # Meet Your Insturctors
-logo: "ankita.jpeg"
+logo: "/assets/images/ankita.jpeg"
 1. Ankita Raturi
 
-logo: "saraswat.jpg"
+logo: "/assets/images/saraswat.jpg"
 2. Dharmendra Saraswat
