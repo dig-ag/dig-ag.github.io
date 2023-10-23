@@ -12,9 +12,9 @@ nav_order: 7
 Source code for the slides is in this folder. The slides are live here:
 
 - Lecture 7.1 [in-person]: Cards with Humanity Game
-- Lecture 7.2 [in-person]: [Module 7 - Lecture 7.1](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.2.html)
-- Lecture 7.3 [in-person]: [Module 7 - Lecture 7.2](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.3.html)
-- Lecture 7.4 [in-person]: Mini-lecture after presentations on Thursday: www.aginformaticslab.org/ag-informatics-course/module7/lecture7.4.html
+- Lecture 7.2 [in-person]: [Module 7 - Lecture 7.2](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.2.html)
+- Lecture 7.3 [in-person]: [Module 7 - Lecture 7.3](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.3.html)
+- Lecture 7.4 [in-person]: Mini-lecture after presentations on Thursday: [Module 7 - Lecture 7.3](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.4.html)
 
 ## Labs
 
