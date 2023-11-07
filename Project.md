@@ -1,33 +1,24 @@
 ---
 layout: page
-title: Module 7
+title: Project
 parent: Introduction to Agricultural Informatics
 grand_parent: Course Catalog
 nav_order: 7
 ---
-# Module 7: Future of Ag Tech!
+# Project!
 
-## Lecture Slides / Notes
+## Project Part 1
 
 <object data="Project-part1.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-Source code for the slides is in this folder. The slides are live here:
+## Project Part 2
 
-- Lecture 7.1 [in-person]: Cards with Humanity Game
-- Lecture 7.2 [in-person]: [Module 7 - Lecture 7.2](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.2.html)
-- Lecture 7.3 [in-person]: [Module 7 - Lecture 7.3](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.3.html)
-- Lecture 7.4 [in-person]: Mini-lecture after presentations on Thursday: [Module 7 - Lecture 7.3](https://www.aginformaticslab.org/ag-informatics-course/module7/lecture7.4.html)
+<object data="Project-part2.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-## Labs
+## Project Part 3
 
-Instructions for the Labs, including submission instructions, can be found inside the lab sub-folders.
+<object data="Project-part3.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-Academic Integrity Reminder: Make sure your lab Github repositories are "private" for the duration of the course, to prevent others from simply copying your code. I trust that you will work independently, and will evaluate your work based on your "commit" history (i.e., you should NOT just commit the ENTIRE lab 5 minutes before the deadline). In general, writing code with the help of the internet is permissable, i.e., you can ask questions on Stack Overflow, discuss the problems with each other on Slack. Ultimately, I have a policy in which I trust that you are doing the right thing, unless I see evidence to the contrary.
-
-
-## Quiz
-
-No more quizzes!
 
 ## License
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
