@@ -56,11 +56,11 @@ lab4/
 
 [The Agronomy Farm](https://ag.purdue.edu/agry/acre/Pages/default.aspx) (AKA ACRE) is a 1600 acre research and education farm and facility about 7 miles northwest of the Purdue West Lafayette Campus. Over 50 researchers, from 8 departments are running approximately 180 research projects at ACRE, ranging from plant breeding and genetics, to serving as a testbed for digital agriultural technologies. When fields are not in research use, the they put into production, with the ACRE team growing commodity corn and soybean. Rachel Stevens, the farm manager, works with three full-time technicians and a team of seasonal and student labor as needed.
 
-![ACRE Map](img/acre-maps.jpg)
+![ACRE Map](/assets/images/acre-maps.jpg)
 
 **Data Management Challenge:** The farm manager has has decades of historical farm operations data per field in logbooks like the one shown below:
 
-![ACRE Log Book](img/acre-logbook.jpeg)
+![ACRE Log Book](/assets/images/acre-logbook.jpeg)
 
 The farm manager wants a web application in which all her historical field data resides in a logically structured database that allows for easy searching and exploration of the data. She also a password-protected dashboard that her workers can use to input new data into the the application. **In this lab, you will create a data management Django web application for the ACRE farm management team.**
 
