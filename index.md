@@ -4,8 +4,17 @@ layout: home
 nav_order: 1
 ---
 
-# Meet Your Instructors
+# NIFA - Higher Education Challenge (HEC)
 
-<img src="/assets/images/purdue.png" width="250" height="250">
-<img src="/assets/images/kentuky.jpeg" width="250" height="250">
-<img src="/assets/images/tuskegee.png" width="250" height="250">
+# Meet the Instructors
+<img src="/assets/images/saraswat.jpg" width="100" height="100"> 
+<img src="/assets/images/ankita.jpeg" width="100" height="100"> 
+
+# Courses
+1. Introduction to Agriculture Informatics
+
+
+## Universities
+<img src="/assets/images/purdue.png" width="100" height="100"> 
+<img src="/assets/images/kentuky.jpeg" width="100" height="100"> 
+<img src="/assets/images/tuskegee.png" width="100" height="100">
