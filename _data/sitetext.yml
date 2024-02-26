@@ -20,7 +20,13 @@ en: &DEFAULT_EN
   about:
     title: "ABOUT US"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "A multidisciplinary team from Purdue University, led by **Dharmendra Saraswat**, a professor in the Department of Agricultural and Biological Engineering, along with co-project directors: **Dennis Buckmaster**, **Ankita Raturi**, and **Somali Chaterji**, professors in the Department of Agricultural and Biological Engineering (ABE); **James Krogmeier** and **Aaron Ault** in the Department of Electrical and Computer Engineering (ECE); **Neil Knobloch** in the Department of Agricultural Sciences Education and Communication (ASEC); and **Mark Daniel** Ward in the Department of Statistics, secured funding from **USDA-NIFA**'s **Higher Education Challenge (HEC)** Grants Program to develop a curriculum in agriculture informatics. Collaborating with the University of Kentucky and Tuskegee University, Purdue University is expanding access to these courses. The curriculum integrates computational thinking and software development skills, preparing agriscience students for data-driven roles in agriculture. \n
+
+The HEC grant from USDA-NIFA has resulted in Purdue Engineering to offer new courses in agriculture informatics to prepare agriscience graduates for practical, data-driven work in the agricultural industry, on individual farms, and in academia. Through collaboration with the University of Kentucky and Tuskegee University, the new courses on agriculture informatics have been extended to more campuses. \n
+
+Twelve existing undergraduate courses at Purdue University, the University of Kentucky, and Tuskegee University now incorporate a two-week module on agriculture informatics. Additionally, three semester-long courses focus on building career-specific competencies in computational thinking and software development for both undergraduate and graduate students. \n
+
+Using problem-based learning and an inverted classroom approach, these courses emphasize active student participation, communication, team building, leadership, and independent learning. The project aims to foster a collaborative environment and cultivate open-source communities in agriculture through experiential learning, professional development, and the publication of open-source materials. Ultimately, this initiative enhances teamwork among agriscience students, expands their networks, and better prepares them for careers in agriculture informatics."
     section: about
 
 
@@ -38,46 +44,12 @@ en: &DEFAULT_EN
       - title: "Edge Device course by Dr. Chaterji"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
+      - title:
+        desc: 
+        icon: fab 
       - title: "Short Course"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
-
-  # portfolio:
-  #   title: "Portfolio"
-  #   text: "Lorem ipsum dolor sit amet consectetur."
-  #   section: portfolio
-  #   closebutton: "Close Project"
-
-  # timeline:
-  #   title: "Timeline"
-  #   text: "Lorem ipsum timeline"
-  #   section: timeline
-  #   # left is the default
-  #   #start_align: "left"
-  #   events:
-  #     - title: "Our Humble Beginnings"
-  #       year: "2009-2011"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  #       image: assets/img/timeline/1.jpg
-  #       alt:
-  #     - title: "An Agency is Born"
-  #       year: "March 2011"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  #       image: assets/img/timeline/2.jpg
-  #       alt:
-  #     - title: "Jekyll Theme is created"
-  #       year: "2019"
-  #       desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-  #       image: assets/img/timeline/3.jpg
-  #       alt: image alt text
-  #     - title: "Title"
-  #       year: "2009-2011"
-  #       desc: "Your description here, **Markdown** is fully supported."
-  #       image: assets/img/timeline/4.jpg
-  #       alt:
-  #       # you can enforce the alignment
-  #       align: right
-  #   end: "Be Part <br> of Our <br> Story!"
 
 
   clients:
@@ -100,12 +72,9 @@ en: &DEFAULT_EN
 
   team:
     title: "MEET THE INSTRUCTORS"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
       - name: "Dharmendra Saraswat"
-        role: "Lead Designer"
         image: assets/img/team/saraswat.jpg
         social:
           - url: https://twitter.com
@@ -115,7 +84,6 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Ankita Raturi"
-        role: "Lead Marketer"
         image: assets/img/team/ankita.jpeg
         social:
           - url: https://twitter.com
@@ -135,7 +103,6 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dennis Buckmaster"
-        role: "Lead Developer"
         image: assets/img/team/dennis.jpeg
         social:
           - url: https://twitter.com
@@ -145,7 +112,6 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "James V Krogmeier"
-        role: "Lead Developer"
         image: assets/img/team/jim.jpeg
         social:
           - url: https://twitter.com
