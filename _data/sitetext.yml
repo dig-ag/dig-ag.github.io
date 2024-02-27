@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: USDA NIFA - HEC!
-    text: It's Nice To Meet You
+    title: USDA National Institute of Food and Agriculture (NIFA)
+    text: Higher Education Challenge (HEC)
     button: Tell Me More
     buttonlink: "#about"
 
@@ -74,7 +74,7 @@ Using problem-based learning and an inverted classroom approach, these courses e
     section: team
     people:
       - name: "[Dharmendra Saraswat](https://dad.saraswat.rcac.purdue.edu)"
-        image: assets/img/team/saraswat.jpg
+        image: assets/img/team/saraswat.jpeg
         # social:
         #   - url: https://twitter.com
         #     icon: fab fa-twitter
@@ -119,20 +119,19 @@ Using problem-based learning and an inverted classroom approach, these courses e
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
 
-  # contact:
-  #   title: "Contact Us"
-  #   text: "Lorem ipsum or call 123456789"
-  #   section: contact
-  #   name: "Name*"
-  #   name-validation: "Please enter your name."
-  #   email: "Email*"
-  #   email-validation: "Please enter your email address."
-  #   phone: "Phone Number"
-  #   phone-validation: "Please enter your phone number."
-  #   message: "Message*"
-  #   message-validation: "Please enter a message."
-  #   subject: "Contact Form Submission"
-  #   submit: "Send Message"
+  contact:
+    title: "Contact Us"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
