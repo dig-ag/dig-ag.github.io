@@ -14,12 +14,11 @@ en: &DEFAULT_EN
     title: USDA NIFA - HEC!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   
   about:
     title: "ABOUT US"
-    text: "our story"
     body: "A multidisciplinary team from Purdue University, led by **Dharmendra Saraswat**, a professor in the Department of Agricultural and Biological Engineering, along with co-project directors: **Dennis Buckmaster**, **Ankita Raturi**, and **Somali Chaterji**, professors in the Department of Agricultural and Biological Engineering (ABE); **James Krogmeier** and **Aaron Ault** in the Department of Electrical and Computer Engineering (ECE); **Neil Knobloch** in the Department of Agricultural Sciences Education and Communication (ASEC); and **Mark Daniel** Ward in the Department of Statistics, secured funding from **USDA-NIFA**'s **Higher Education Challenge (HEC)** Grants Program to develop a curriculum in agriculture informatics. Collaborating with the University of Kentucky and Tuskegee University, Purdue University is expanding access to these courses. The curriculum integrates computational thinking and software development skills, preparing agriscience students for data-driven roles in agriculture. \n
 
 The HEC grant from USDA-NIFA has resulted in Purdue Engineering to offer new courses in agriculture informatics to prepare agriscience graduates for practical, data-driven work in the agricultural industry, on individual farms, and in academia. Through collaboration with the University of Kentucky and Tuskegee University, the new courses on agriculture informatics have been extended to more campuses. \n
@@ -35,14 +34,14 @@ Using problem-based learning and an inverted classroom approach, these courses e
     text: Courses designed for introducing modern technological advancements for digital agricutlure.
     section: services
     list:
-      - title: "Introduction to Agriculture Informatics"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "[Introduction to Agriculture Informatics](https://github.com/dig-ag/ag-informatics-course.github.io)"
+        desc: "This course presents an overview of current and emerging technologies used in digital agriculture. You will be engaged in learning technology fundamentals through seven 2-week projects. These hands-on exercises will allow you to gain a practical understanding of the technology itself, review research and development trends, and debate opportunities and challenges presented by each technology. This course will equip you with basic computational thinking and software development skills for Agricultural Informatics careers."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Data Visualization"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Data Visualization Tools & Applications"
+        desc: "This course is for students new to Data Visualization. It covers the visualization process, using lectures, readings, and hands-on experience with current tools. Students will learn IoT sensors for real-time data, edge computing, and running deep learning models for computer vision. Collaboration is encouraged. By the end, students will gain foundational knowledge in data analysis, visualization techniques, tools, and edge computing for future applications."
         icon: fas fa-laptop
-      - title: "Edge Device course by Dr. Chaterji"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Introduction to ML Algorithms Driven by IoT and CV Applications](https://schaterji.io/teaching/abe591-sp2024/)"
+        desc: "This course covers data science and data engineering algorithms for computer vision and IoT. Students will gain algorithmic proficiency and learn commercial software from Google, Microsoft, and Amazon. Topics include cloud computing, serverless infrastructure, data engineering best practices, machine learning innovations, decentralized learning, computational complexity, and ethics for real-world algorithm deployment."
         icon: fab fa-markdown
       - title:
         desc: 
@@ -74,81 +73,80 @@ Using problem-based learning and an inverted classroom approach, these courses e
     title: "MEET THE INSTRUCTORS"
     section: team
     people:
-      - name: "Dharmendra Saraswat"
+      - name: "[Dharmendra Saraswat](https://dad.saraswat.rcac.purdue.edu)"
         image: assets/img/team/saraswat.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Ankita Raturi"
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "[Ankita Raturi](http://aginformaticslab.org/index.php/ankita-raturi/)"
         image: assets/img/team/ankita.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Somali Chaterji"
-        role: "Lead Developer"
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "[Somali Chaterji](https://schaterji.io)"
         image: assets/img/team/somali.png
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Dennis Buckmaster"
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "[Dennis Buckmaster](https://engineering.purdue.edu/~dbuckmas/)"
         image: assets/img/team/dennis.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "James V Krogmeier"
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
+      - name: "[James V Krogmeier](https://engineering.purdue.edu/~jvk/)"
         image: assets/img/team/jim.jpeg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
 
-  contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+  # contact:
+  #   title: "Contact Us"
+  #   text: "Lorem ipsum or call 123456789"
+  #   section: contact
+  #   name: "Name*"
+  #   name-validation: "Please enter your name."
+  #   email: "Email*"
+  #   email-validation: "Please enter your email address."
+  #   phone: "Phone Number"
+  #   phone-validation: "Please enter your phone number."
+  #   message: "Message*"
+  #   message-validation: "Please enter a message."
+  #   subject: "Contact Form Submission"
+  #   submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
-    social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+    # social:
+    #   - url: https://twitter.com
+    #     icon: "fab fa-twitter"
+    #   - url: https://facebook.com
+    #     icon: "fab fa-facebook-f"
+    #   - url: https://linkedin.com
+    #     icon: "fab fa-linkedin-in"
+    #   - url: https://github.com/raviriley/agency-jekyll-theme
+    #     icon: "fab fa-github"
+    #   - url: https://instagram.com
+    #     icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
