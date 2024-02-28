@@ -37,7 +37,7 @@ Using problem-based learning and an inverted classroom approach, these courses e
       - title: "[Introduction to Agriculture Informatics](https://github.com/dig-ag/ag-informatics-course.github.io)"
         desc: "This course presents an overview of current and emerging technologies used in digital agriculture. You will be engaged in learning technology fundamentals through seven 2-week projects. These hands-on exercises will allow you to gain a practical understanding of the technology itself, review research and development trends, and debate opportunities and challenges presented by each technology. This course will equip you with basic computational thinking and software development skills for Agricultural Informatics careers."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Data Visualization Tools & Applications"
+      - title: "[Data Visualization Tools & Applications](https://github.com/DigitalAgricultureDiscovery/ASM59100)"
         desc: "This course is for students new to Data Visualization. It covers the visualization process, using lectures, readings, and hands-on experience with current tools. Students will learn IoT sensors for real-time data, edge computing, and running deep learning models for computer vision. Collaboration is encouraged. By the end, students will gain foundational knowledge in data analysis, visualization techniques, tools, and edge computing for future applications."
         icon: fas fa-laptop
       - title: "[Introduction to ML Algorithms Driven by IoT and CV Applications](https://schaterji.io/teaching/abe591-sp2024/)"
