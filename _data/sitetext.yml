@@ -70,19 +70,12 @@ Using problem-based learning and an inverted classroom approach, these courses e
         logo: assets/img/clients/tuskegee.png
 
   team:
-    title: "MEET THE INSTRUCTORS"
+    title: Meet the Instructors
     section: team
     people:
-      - name: "[Dharmendra Saraswat](https://dad.saraswat.rcac.purdue.edu)"
+      - name: "[Dharmendra Saraswat](https://dad.saraswat.rcac.purdue.edu) Purdue University"
         image: assets/img/team/saraswat.jpeg
-        # social:
-        #   - url: https://twitter.com
-        #     icon: fab fa-twitter
-        #   - url: https://facebook.com
-        #     icon: fab fa-facebook-f
-        #   - url: https://linkedin.com
-        #     icon: fab fa-linkedin-in
-      - name: "[Ankita Raturi](http://aginformaticslab.org/index.php/ankita-raturi/)"
+      - name: "[Ankita Raturi](http://aginformaticslab.org/index.php/ankita-raturi/)    \n       Purdue University"
         image: assets/img/team/ankita.jpeg
         # social:
         #   - url: https://twitter.com
@@ -91,7 +84,7 @@ Using problem-based learning and an inverted classroom approach, these courses e
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
-      - name: "[Somali Chaterji](https://schaterji.io)"
+      - name: "[Somali Chaterji](https://schaterji.io)     \n     Purdue University"
         image: assets/img/team/somali.png
         # social:
         #   - url: https://twitter.com
@@ -100,7 +93,7 @@ Using problem-based learning and an inverted classroom approach, these courses e
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
-      - name: "[Dennis Buckmaster](https://engineering.purdue.edu/~dbuckmas/)"
+      - name: "[Dennis Buckmaster](https://engineering.purdue.edu/~dbuckmas/)       \n    Purdue University"
         image: assets/img/team/dennis.jpeg
         # social:
         #   - url: https://twitter.com
@@ -109,7 +102,7 @@ Using problem-based learning and an inverted classroom approach, these courses e
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
-      - name: "[James V Krogmeier](https://engineering.purdue.edu/~jvk/)"
+      - name: "[James V Krogmeier](https://engineering.purdue.edu/~jvk/)     \n     Purdue University"
         image: assets/img/team/jim.jpeg
         # social:
         #   - url: https://twitter.com
@@ -118,6 +111,12 @@ Using problem-based learning and an inverted classroom approach, these courses e
         #     icon: fab fa-facebook-f
         #   - url: https://linkedin.com
         #     icon: fab fa-linkedin-in
+      - name: "[Joseph Dvorak](https://www.engr.uky.edu/directory/dvorak-joseph)    \n    Kentuky University"
+        image: assets/img/team/joe.jpg
+      - name: "[Joseph Essamuah-Quansha](https://www.engr.uky.edu/directory/dvorak-joseph)    \n   Tuskegee University"
+        image: assets/img/team/essa.jpg
+      - name: "[Fall Souleymane](https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes/contact-us/daes-faculty/souleymane-fall-phd)   \n      Tuskegee University"
+        image: assets/img/team/soul.jpeg
 
   contact:
     title: "Contact Us"
