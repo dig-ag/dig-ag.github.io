@@ -46,8 +46,8 @@ Using problem-based learning and an inverted classroom approach, these courses e
       - title:
         desc: 
         icon: fab 
-      - title: "Short Course"
-        desc: "Your description here, full **Markdown** support"
+      - title: "[Python for Digital Agriculture](https://github.com/venomj26/Python4DigitalAg)"
+        desc: "The module introduces Python programming for digital agricultural applications. It employs ample examples in well-documented workbooks to demonstrate each learning objective in detail. Publicly available historical yield and weather datasets are used for data handling examples, making the module reproducible and open source."
         icon: fab fa-markdown
 
 
