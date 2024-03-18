@@ -34,19 +34,19 @@ Using problem-based learning and an inverted classroom approach, these courses e
     text: Courses designed for introducing modern technological advancements for digital agricutlure.
     section: services
     list:
-      - title: "[Introduction to Agriculture Informatics](https://github.com/dig-ag/ag-informatics-course.github.io)"
+      - title: "[Introduction to Agriculture Informatics](https://docs.google.com/forms/d/e/1FAIpQLSf1HbxsmCT2wmT5rUlTevAbDCXgy_tmqm1tLD77PZBTmwdoGg/viewform?usp=sf_link)" #(https://github.com/dig-ag/ag-informatics-course.github.io)"
         desc: "This course presents an overview of current and emerging technologies used in digital agriculture. You will be engaged in learning technology fundamentals through seven 2-week projects. These hands-on exercises will allow you to gain a practical understanding of the technology itself, review research and development trends, and debate opportunities and challenges presented by each technology. This course will equip you with basic computational thinking and software development skills for Agricultural Informatics careers."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "[Data Visualization Tools & Applications](https://github.com/DigitalAgricultureDiscovery/ASM59100)"
+      - title: "[Data Visualization Tools & Applications](https://docs.google.com/forms/d/e/1FAIpQLSf1HbxsmCT2wmT5rUlTevAbDCXgy_tmqm1tLD77PZBTmwdoGg/viewform?usp=sf_link)" #(https://github.com/DigitalAgricultureDiscovery/ASM59100)"
         desc: "This course is for students new to Data Visualization. It covers the visualization process, using lectures, readings, and hands-on experience with current tools. Students will learn IoT sensors for real-time data, edge computing, and running deep learning models for computer vision. Collaboration is encouraged. By the end, students will gain foundational knowledge in data analysis, visualization techniques, tools, and edge computing for future applications."
         icon: fas fa-laptop
-      - title: "[Introduction to ML Algorithms Driven by IoT and CV Applications](https://schaterji.io/teaching/abe591-sp2024/)"
+      - title: "[Introduction to ML Algorithms Driven by IoT and CV Applications](https://docs.google.com/forms/d/e/1FAIpQLSf1HbxsmCT2wmT5rUlTevAbDCXgy_tmqm1tLD77PZBTmwdoGg/viewform?usp=sf_link)" #(https://schaterji.io/teaching/abe591-sp2024/)"
         desc: "This course covers data science and data engineering algorithms for computer vision and IoT. Students will gain algorithmic proficiency and learn commercial software from Google, Microsoft, and Amazon. Topics include cloud computing, serverless infrastructure, data engineering best practices, machine learning innovations, decentralized learning, computational complexity, and ethics for real-world algorithm deployment."
         icon: fab fa-markdown
       - title:
         desc: 
         icon: fab 
-      - title: "[Python for Digital Agriculture](https://github.com/venomj26/Python4DigitalAg)"
+      - title: "[Python for Digital Agriculture](https://docs.google.com/forms/d/e/1FAIpQLSf1HbxsmCT2wmT5rUlTevAbDCXgy_tmqm1tLD77PZBTmwdoGg/viewform?usp=sf_link)" #(https://github.com/venomj26/Python4DigitalAg)"
         desc: "The module introduces Python programming for digital agricultural applications. It employs ample examples in well-documented workbooks to demonstrate each learning objective in detail. Publicly available historical yield and weather datasets are used for data handling examples, making the module reproducible and open source."
         icon: fab fa-markdown
 
