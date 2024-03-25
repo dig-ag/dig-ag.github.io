@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: USDA National Institute of Food and Agriculture (NIFA)
-    text: Higher Education Challenge (HEC)
+    title: Computational Skills Development for Next Generation Agriscience Professionals for Sustaining Data Driven Agriculture
+    text: USDA NIFA - HEC Grant
     button: Tell Me More
     buttonlink: "#about"
 
@@ -118,19 +118,19 @@ Using problem-based learning and an inverted classroom approach, these courses e
       - name: "[Fall Souleymane](https://www.tuskegee.edu/programs-courses/colleges-schools/caens/daes/contact-us/daes-faculty/souleymane-fall-phd)   \n      Tuskegee University"
         image: assets/img/team/soul.jpeg
 
-  contact:
-    title: "Contact Us"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+  # contact:
+  #   title: "Contact Us"
+  #   section: contact
+  #   name: "Name*"
+  #   name-validation: "Please enter your name."
+  #   email: "Email*"
+  #   email-validation: "Please enter your email address."
+  #   phone: "Phone Number"
+  #   phone-validation: "Please enter your phone number."
+  #   message: "Message*"
+  #   message-validation: "Please enter a message."
+  #   subject: "Contact Form Submission"
+  #   submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
