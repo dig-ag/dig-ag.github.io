@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Computational Skills Development for Next Generation Agriscience Professionals for Sustaining Data Driven Agriculture
-    text: USDA NIFA - HEC Grant
+    text: 
     button: Tell Me More
     buttonlink: "#about"
 
